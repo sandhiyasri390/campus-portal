@@ -1,0 +1,9 @@
+{
+  "name": "campus-placement-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "setup": "node start.js --install",
+    "dev": "node start.js"
+  }
+}
